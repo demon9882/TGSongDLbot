@@ -12,7 +12,7 @@ import time
 
 from telethon import Button, events
 
-from . import bot, botStartTime, logger, plugins
+from . import bot, botStartTime, logger
 from .utils import translate, fetch
 from .utils.bot_utils import get_readable_file_size, get_readable_time
 
